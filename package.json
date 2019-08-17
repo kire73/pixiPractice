@@ -1,0 +1,29 @@
+{
+  "name": "pixipractice",
+  "version": "1.0.0",
+  "description": "Practice Project for Pixi.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kire73/pixiPractice.git"
+  },
+  "keywords": [
+    "html5",
+    "game",
+    "dev"
+  ],
+  "author": "Erik Villoria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kire73/pixiPractice/issues"
+  },
+  "homepage": "https://github.com/kire73/pixiPractice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "howler": "^2.1.2"
+  }
+}
