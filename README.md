@@ -8,4 +8,4 @@ Pixi.js Assessment for SpinPlay
     npm start
 ```
 
-Or, you can download the files and start a static http server pointing to ```index.html```
+Or, you can download the files and start a static http server pointing to ```/public/index.html```
