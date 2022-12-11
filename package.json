@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/kire73/pixiPractice#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "howler": "^2.1.2"
   }
 }
